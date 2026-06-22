@@ -136,13 +136,13 @@ navigation_header:
 
 navigation_footer:
 - title: Created by Armand Mech
-  url: https://armandmech.com
+  url: https://zfightclub.github.io/armandmech.github.io/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
  # Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/armandmech/
   GitHub: https://github.com/zfightclub
-  link: https://armandmech.com
+  link: https://zfightclub.github.io/armandmech.github.io/
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
