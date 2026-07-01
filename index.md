@@ -3,7 +3,7 @@ title: Armand Mech - Game Developer Portfolio
 feature_text: |
   ## Armand Mech
   Artist - Designer - Turbo Developer
-feature_image: "https://github.com/zfightclub/armandmech.github.io/blob/main/assets/Webstie_Splash_Image_01_compressed.jpg"
+feature_image: "https://github.com/zfightclub/armandmech.github.io/blob/main/assets/Webstie_Splash_Image_01_compressed.jpg?raw=true"
 excerpt: "Armand Mech is a multidiscipline developer who has contributed to multiple titles."
 ---
 I am an artist, designer, active collaborator, and storyteller with 10+ years of experience making games.
