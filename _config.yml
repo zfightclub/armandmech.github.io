@@ -125,6 +125,14 @@ navigation_header:
   url: /
 - title: Artstation
   url: https://www.artstation.com/armandmech
+- title: Portfolio
+  url: /portfolio/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
 
 navigation_footer:
 - title: Created by Armand Mech
